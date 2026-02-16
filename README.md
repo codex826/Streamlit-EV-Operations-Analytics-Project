@@ -36,4 +36,6 @@ The application is divided into three core modules:
    ```bash
     link : (https://github.com/codex826/Streamlit-EV-Operations-Analytics-Project)
 
-## Deployment and Link of the Project:
+## Images: 
+
+
