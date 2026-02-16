@@ -38,4 +38,7 @@ The application is divided into three core modules:
 
 ## Images: 
 
+![image alt](https://github.com/codex826/Streamlit-EV-Operations-Analytics-Project/blob/main/Screenshot%202026-02-16%20122226.png?raw=true)
+![image alt](https://github.com/codex826/Streamlit-EV-Operations-Analytics-Project/blob/main/Screenshot%202026-02-16%20114213.png?raw=true)
+![image alt](https://github.com/codex826/Streamlit-EV-Operations-Analytics-Project/blob/main/Screenshot%202026-02-16%20114146.png?raw=true)
 
